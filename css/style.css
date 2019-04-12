@@ -1,0 +1,14 @@
+footer{
+			background: #343A40;
+			color: white;
+		}
+		footer ul{
+			padding: 0;
+		}
+		footer ul li{
+			list-style-type: none;
+		}
+
+		footer ul li a{
+			color: white;
+		}
